@@ -63,9 +63,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CP02\CP02.csproj">
+    <ProjectReference Include="..\CP02\HCWA.csproj">
       <Project>{276D56F6-1488-440B-A510-3B210B963997}</Project>
-      <Name>CP02</Name>
+      <Name>HCWA</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

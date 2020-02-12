@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP02", "CP02\CP02.csproj", "{276D56F6-1488-440B-A510-3B210B963997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCWA", "CP02\HCWA.csproj", "{276D56F6-1488-440B-A510-3B210B963997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP02Tests", "CP02Tests\CP02Tests.csproj", "{8A847547-8B8E-4204-8082-BB80D6E11EB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCWATests", "CP02Tests\HCWATests.csproj", "{8A847547-8B8E-4204-8082-BB80D6E11EB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
